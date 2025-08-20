@@ -36,7 +36,6 @@ const calculate = () =>{
   return (
       <div className="App">
         <div className="container">
-        <h1 className="header">Simple Calculator</h1>
 
         <div className="calculator">
           <div className="display">
