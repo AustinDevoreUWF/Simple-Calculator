@@ -1,3 +1,24 @@
+# Calculator App
+** Using typescript and css for a simple web based calculator app **
+
+Fully commented out to see what each part is used for, for clarity.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
